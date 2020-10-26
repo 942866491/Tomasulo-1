@@ -30,7 +30,7 @@ def initialize():
 	#inst_queue = ["ADD R0 1 2", "LD R1 1 0", "LD R2 4 0"]
 
 	global load_time
-	load_time = 2
+	load_time = 3
 
 	global result_queue
 	result_queue = [[] for i in range(10)]
